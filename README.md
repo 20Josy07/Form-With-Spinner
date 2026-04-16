@@ -38,4 +38,4 @@ Este es un proyecto de Android Studio que consiste en un formulario de registro 
 
 ## ✒️ Autor
 
-*   **Tu Nombre/Usuario** - *Desarrollo Inicial*
+*   **Josimar Acosta Martínez** - *Desarrollo Inicial*
