@@ -2,6 +2,12 @@
 
 Este es un proyecto de Android Studio que consiste en un formulario de registro interactivo con navegación dinámica basada en la selección del usuario mediante un `Spinner`.
 
+## 📸 Screenshots
+
+| Formulario Principal | Categoría Deportes | Categoría Música | Categoría Cine |
+| :---: | :---: | :---: | :---: |
+| ![Formulario](https://raw.githubusercontent.com/20Josy07/Form-With-Spinner/master/.images/image1.jpg) | ![Deportes](https://raw.githubusercontent.com/20Josy07/Form-With-Spinner/master/.images/image2.jpg) | ![Música](https://raw.githubusercontent.com/20Josy07/Form-With-Spinner/master/.images/image3.jpg) | ![Cine](https://raw.githubusercontent.com/20Josy07/Form-With-Spinner/master/.images/image4.jpg) |
+
 ## 🚀 Características
 
 *   **Formulario de Registro**: Captura de nombre completo y edad con validación de campos.
@@ -38,4 +44,4 @@ Este es un proyecto de Android Studio que consiste en un formulario de registro 
 
 ## ✒️ Autor
 
-*   **Tu Nombre/Usuario** - *Desarrollo Inicial*
+*   **Josimar Acosta Martínez** - *Desarrollo Inicial*
