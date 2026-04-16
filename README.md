@@ -14,7 +14,7 @@ Este es un proyecto de Android Studio que consiste en un formulario de registro 
 *   **Selección de Intereses**: Uso de un componente `Spinner` para elegir entre diferentes categorías (Deportes, Música, Cine).
 *   **Persistencia de Datos**: Los datos del usuario se guardan localmente utilizando `SharedPreferences`.
 *   **Navegación Inteligente**: Dependiendo de la categoría seleccionada, la aplicación dirige al usuario a una actividad específica personalizada (DeportesActivity, MusicaActivity o CineActivity).
-*   **Diseño Moderno**: Interfaz de usuario con un fondo azul vibrante (`#2148C7`) y elementos de alto contraste para una mejor legibilidad.
+*   **Diseño Moderno**: Interfaz de usuario limpia y elementos de alto contraste para una mejor legibilidad.
 *   **Icono Personalizado**: Cuenta con un icono de aplicación generado siguiendo las guías de diseño de Android.
 
 ## 🛠️ Tecnologías Utilizadas
