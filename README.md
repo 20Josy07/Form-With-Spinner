@@ -26,7 +26,6 @@ Este es un proyecto de Android Studio que consiste en un formulario de registro 
     *   `Spinner` con adaptador de arreglos (`string-array`).
     *   `SharedPreferences` para almacenamiento local ligero.
     *   `Intent` para la navegación entre actividades.
-*   **Estilo**: Temas personalizados y gestión de colores en `values/colors.xml`.
 
 ## 📸 Estructura del Proyecto
 
